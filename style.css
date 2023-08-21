@@ -1,0 +1,98 @@
+.jumbotron {
+  padding-top: 6rem;
+  background-color: #0a2647;
+  color: white;
+}
+
+/* Jumbotron */
+.jumbotron img {
+  width: 200px;
+  border-radius: 100%;
+}
+
+/* about */
+#about {
+  background-color: #093059;
+  color: white;
+  padding-top: 6rem;
+}
+
+.daftar {
+  list-style: none;
+}
+.daftar li {
+  display: flex;
+  align-items: flex-start;
+}
+.jarak {
+  visibility: hidden;
+}
+/* Education */
+#education {
+  background-color: #0a2647;
+  color: white;
+  padding-top: 6rem;
+}
+.custom-list-group-item {
+  background-color: #205295;
+  border: 2px solid #093059;
+  border-radius: 20px;
+  color: white;
+}
+
+/* Skill*/
+#skill {
+  background-color: #093059;
+  color: white;
+  padding-top: 6rem;
+}
+
+.card-body-custom {
+  color: white;
+  background-color: #205295;
+}
+
+.hide {
+  visibility: hidden;
+}
+
+/* Achievment */
+#achiev {
+  background-color: #0a2647;
+  color: white;
+  padding-top: 6rem;
+}
+
+.achiev-card-custom {
+  color: white;
+  background-color: #205295;
+}
+
+.ukuran-gambar {
+  width: 300px;
+}
+
+/* project*/
+#project {
+  background-color: #093059;
+  color: white;
+  padding-top: 6rem;
+}
+
+.project-custom-card {
+  color: white;
+  background-color: #205295;
+}
+
+/* Contact */
+#contact {
+  background-color: #0a2647;
+  color: white;
+  padding-top: 6rem;
+}
+
+/* Footer */
+footer {
+  background-color: #093059;
+  color: white;
+}
