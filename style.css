@@ -68,10 +68,6 @@
   background-color: #205295;
 }
 
-.ukuran-gambar {
-  width: 300px;
-}
-
 /* project*/
 #project {
   background-color: #093059;
@@ -93,6 +89,6 @@
 
 /* Footer */
 footer {
-  background-color: #093059;
+  background-color: #0a2647;
   color: white;
 }
